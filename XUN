@@ -1,11 +1,109 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <meta charset="utf-8">
-  <title>Hello World</title>
+ <meta charset="UTF-8">
+ <title>Mosaic of Faith: The Distribution of Religious Beliefs in Singapore</title>
+ <style>
+body {
+font-family: "Helvetica", "Arial", sans-serif;
+line-height: 1.8;
+margin: 40px auto;
+max-width: 850px;
+color: #2c3e50;
+background-color: #fafafa;
+}
+h1 {
+text-align: center;
+color: #1a5276;
+margin-bottom: 40px;
+}
+h2 {
+color: #154360;
+border-bottom: 2px solid #ddd;
+padding-bottom: 5px;
+margin-top: 30px;
+}
+section {
+margin-bottom: 25px;
+}
+ul {
+margin-left: 20px;
+}
+p, li {
+font-size: 16px;
+}
+.footer {
+margin-top: 40px;
+text-align: center;
+font-size: 14px;
+color: #7f8c8d;
+}
+ </style>
 </head>
 <body>
-  <h1>Hello, World!</h1>
-  <p>This is my second or third HTML page.</p>
+ <h1>Mosaic of Faith: The Distribution of Religious Beliefs in Singapore</h1>
+ <section>
+<h2>Background</h2>
+<p>
+Singapore is a multicultural and multi-ethnic society where religion plays an important role in shaping both social structures and 
+cultural identity. 
+Different religions not only influence people’s lifestyles, festivals, and values but also shape the diversity of public spaces 
+(e.g., temples, mosques, and churches coexisting). However, with globalization and secularization, the structure of religious belief is 
+changing—for example, 
+the rise of the “no religion” group among younger generations.
+</p >
+ </section>
+ <section>
+<h2>Research Objectives</h2>
+<ul>
+<li>To outline the distribution and proportion of major religious groups in Singapore (e.g., Buddhism, Christianity, Islam, Hinduism, 
+Taoism).</li>
+<li>To explore the role of religion in public life, festivals, and community activities.</li>
+<li>To analyze the influence of different religious groups on social interaction and cultural identity.</li>
+<li>To compare differences in religious beliefs across age groups and ethnic communities.</li>
+</ul>
+ </section>
+ <section>
+<h2>Research Questions</h2>
+<ul>
+<li>What are the major deities or religions that Singaporeans believe in?</li>
+<li>Is the distribution of religious believers related to ethnicity, language, or historical background?</li>
+<li>What are the differences in religious beliefs between younger and older generations?</li>
+<li>How does religious diversity affect Singapore’s social cohesion?</li>
+</ul>
+ </section>
+ <section>
+<h2>Research Methods</h2>
+<ul>
+<li><strong>Document Analysis:</strong> Collect census data on religion from the Singapore Department of Statistics (SingStat), along 
+with academic research and government publications.</li>
+<li><strong>Interviews & Observation:</strong> Visit different religious sites (temples, mosques, churches) and engage with believers 
+and religious representatives.</li>
+<li><strong>Case Studies:</strong> Select key religious festivals (e.g., Thaipusam, Hari Raya Puasa, Chinese New Year) and analyze their 
+
+
+role in Singapore’s social life.</li>
+</ul>
+ </section>
+ <section>
+<h2>Expected Outcomes</h2>
+<ul>
+<li>A systematic overview of the distribution of religions in Singapore, highlighting diversity.</li>
+<li>A cultural understanding report explaining how religion influences festivals, food habits, and everyday interactions.</li>
+<li>A comparative perspective revealing generational and group-based differences in religious views.</li>
+<li>Educational significance: a reference for understanding Singapore’s plural society and intercultural exchange.</li>
+</ul>
+ </section>
+ <section>
+<h2>Potential Significance</h2>
+<ul>
+<li>Contributes to fostering mutual understanding and respect among different religious groups.</li>
+<li>Provides valuable material for intercultural education and social research.</li>
+<li>Highlights Singapore’s unique position as a diverse society in terms of religious belief.</li>
+</ul>
+ </section>
+ <div class="footer">
+<p>Course Proposal · Study on Religious Beliefs in Singapore</p >
+ </div>
 </body>
 </html>
